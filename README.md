@@ -3,7 +3,7 @@ The sample repository for DesignNXT 2019 .Net Integrations workshops
 
 
 Presentation
-https://docs.google.com/presentation/d/1FNgMnPYlj33wi4JoHRaWFEO5YfqBXpZddswW5ezSZoo/edit?usp=sharing
+ - https://docs.google.com/presentation/d/1FNgMnPYlj33wi4JoHRaWFEO5YfqBXpZddswW5ezSZoo/edit?usp=sharing
 
 
 Workshop Downloads
